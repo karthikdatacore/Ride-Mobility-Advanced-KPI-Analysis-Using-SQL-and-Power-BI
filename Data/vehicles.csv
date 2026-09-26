@@ -1,0 +1,333 @@
+vehicle_id,Make,Model,Vehicle Type,Powertrain Category,capacity
+1,Acura,MDX,Midsize Luxury SUV,Gas / Hybrid,3
+2,Acura,RDX,Compact Luxury SUV,Gas,6
+3,Acura,TLX,Luxury Sport Sedan,Gas,7
+4,Acura,Integra,Compact Luxury Hatchback,Gas,7
+5,Acura,ZDX,Electric SUV,EV,6
+6,Alfa Romeo,Giulia,Luxury Sport Sedan,Gas,2
+7,Alfa Romeo,Stelvio,Luxury SUV,Gas,4
+8,Alfa Romeo,Tonale,Subcompact Luxury SUV,Plug-in Hybrid,4
+9,Aston Martin,Vantage,Sports Car,Gas,6
+10,Aston Martin,DB12,Grand Tourer,Gas,6
+11,Aston Martin,DBX,Ultra-Luxury SUV,Gas,7
+12,Audi,A3,Luxury Compact Sedan,Gas,7
+13,Audi,A4,Luxury Compact Sedan,Gas,5
+14,Audi,A5,Luxury Sportback,Gas,6
+15,Audi,A6,Luxury Midsize Sedan,Gas,6
+16,Audi,A7,Luxury Executive Sedan,Gas,3
+17,Audi,A8,Luxury Full-size Sedan,Gas,4
+18,Audi,Q3,Subcompact Luxury SUV,Gas,3
+19,Audi,Q4 e-tron,Electric Luxury SUV,EV,5
+20,Audi,Q5,Compact Luxury SUV,Gas / Hybrid,6
+21,Audi,Q7,Midsize Luxury SUV,Gas,2
+22,Audi,Q8,Luxury Crossover SUV,Gas,2
+23,Audi,Q8 e-tron,Electric Luxury SUV,EV,5
+24,Audi,e-tron GT,Electric Luxury Sports Sedan,EV,5
+25,Audi,R8,Supercar,Gas,3
+26,Audi,TT,Sports Coupe,Gas,7
+27,Bentley,Continental GT,Ultra-Luxury Coupe,Gas / Hybrid,7
+28,Bentley,Flying Spur,Ultra-Luxury Sedan,Gas / Hybrid,7
+29,Bentley,Bentayga,Ultra-Luxury SUV,Gas / Hybrid,4
+30,BMW,2 Series,Compact Coupe,Gas,4
+31,BMW,3 Series,Luxury Compact Sedan,Gas / Hybrid,7
+32,BMW,4 Series,Luxury Coupe / Gran Coupe,Gas,4
+33,BMW,5 Series,Luxury Midsize Sedan,Gas / Hybrid,3
+34,BMW,7 Series,Luxury Full-size Sedan,Gas / EV,5
+35,BMW,8 Series,Luxury Grand Tourer,Gas,2
+36,BMW,X1,Subcompact Luxury SUV,Gas,6
+37,BMW,X3,Compact Luxury SUV,Gas / Hybrid,7
+38,BMW,X4,Luxury Coupe SUV,Gas,3
+39,BMW,X5,Midsize Luxury SUV,Gas / Hybrid,4
+40,BMW,X6,Luxury Coupe SUV,Gas,6
+41,BMW,X7,Full-size Luxury SUV,Gas,7
+42,BMW,XM,Performance Hybrid SUV,Plug-in Hybrid,5
+43,BMW,Z4,Roadster,Gas,6
+44,BMW,i4,Electric Luxury Sedan,EV,3
+45,BMW,i7,Electric Luxury Sedan,EV,7
+46,BMW,iX,Electric Luxury SUV,EV,6
+47,Buick,Encore GX,Subcompact SUV,Gas,7
+48,Buick,Envista,Compact Crossover,Gas,3
+49,Buick,Envision,Compact SUV,Gas,4
+50,Buick,Enclave,Midsize Three-Row SUV,Gas,2
+51,Cadillac,CT4,Luxury Compact Sedan,Gas,5
+52,Cadillac,CT5,Luxury Midsize Sedan,Gas,3
+53,Cadillac,XT4,Subcompact Luxury SUV,Gas,2
+54,Cadillac,XT5,Compact Luxury SUV,Gas,2
+55,Cadillac,XT6,Midsize Luxury SUV,Gas,6
+56,Cadillac,Escalade,Full-size Luxury SUV,Gas / Diesel,2
+57,Cadillac,Lyriq,Electric Luxury SUV,EV,6
+58,Cadillac,Celestiq,Ultra-Luxury EV,EV,2
+59,Chevrolet,Bolt EV,Electric Hatchback,EV,2
+60,Chevrolet,Malibu,Midsize Sedan,Gas,7
+61,Chevrolet,Trax,Compact Crossover,Gas,4
+62,Chevrolet,Trailblazer,Subcompact SUV,Gas,3
+63,Chevrolet,Equinox,Compact SUV,Gas,4
+64,Chevrolet,Equinox EV,Electric Compact SUV,EV,6
+65,Chevrolet,Blazer,Midsize SUV,Gas,2
+66,Chevrolet,Blazer EV,Electric Midsize SUV,EV,2
+67,Chevrolet,Traverse,Midsize Three-Row SUV,Gas,3
+68,Chevrolet,Tahoe,Full-size SUV,Gas / Diesel,4
+69,Chevrolet,Suburban,Full-size Extended SUV,Gas / Diesel,5
+70,Chevrolet,Colorado,Midsize Pickup Truck,Gas,5
+71,Chevrolet,Silverado 1500,Full-size Pickup Truck,Gas / Diesel,2
+72,Chevrolet,Silverado EV,Electric Pickup Truck,EV,4
+73,Chevrolet,Corvette,Mid-Engine Sports Car,Gas / Hybrid,6
+74,Chevrolet,Camaro,Muscle Car,Gas,2
+75,Chrysler,Pacifica,Minivan,Gas / Hybrid,3
+76,Chrysler,300,Full-size Sedan,Gas,7
+77,Dodge,Hornet,Compact Crossover,Gas / Hybrid,2
+78,Dodge,Charger,Muscle Car / Sedan,Gas / EV,2
+79,Dodge,Challenger,Muscle Car,Gas,3
+80,Dodge,Durango,Midsize Three-Row SUV,Gas,4
+81,Ferrari,Roma,Sports Car,Gas,7
+82,Ferrari,296 GTB,Hybrid Supercar,Plug-in Hybrid,6
+83,Ferrari,Purosangue,Performance Luxury SUV,Gas,4
+84,Fiat,500e,Electric City Car,EV,5
+85,Ford,Fiesta,Subcompact Car,Gas,3
+86,Ford,Focus,Compact Car,Gas,7
+87,Ford,Fusion,Midsize Sedan,Gas / Hybrid,2
+88,Ford,Taurus,Full-size Sedan,Gas,3
+89,Ford,Mustang,Muscle Car / Coupe,Gas,3
+90,Ford,Mustang Mach-E,Electric SUV,EV,2
+91,Ford,EcoSport,Subcompact SUV,Gas,7
+92,Ford,Bronco Sport,Compact Off-Road SUV,Gas,5
+93,Ford,Escape,Compact SUV,Gas / Hybrid,3
+94,Ford,Bronco,Midsize Off-Road SUV,Gas,2
+95,Ford,Edge,Midsize Crossover,Gas,6
+96,Ford,Explorer,Midsize Three-Row SUV,Gas / Hybrid,2
+97,Ford,Expedition,Full-size SUV,Gas,3
+98,Ford,Maverick,Compact Pickup Truck,Gas / Hybrid,3
+99,Ford,Ranger,Midsize Pickup Truck,Gas,7
+100,Ford,F-150,Full-size Pickup Truck,Gas / Hybrid,7
+101,Ford,F-150 Lightning,Electric Pickup Truck,EV,3
+102,Genesis,G70,Luxury Sport Sedan,Gas,3
+103,Genesis,G80,Luxury Midsize Sedan,Gas / EV,2
+104,Genesis,G90,Luxury Flagship Sedan,Gas,4
+105,Genesis,GV60,Electric Luxury Crossover,EV,3
+106,Genesis,GV70,Compact Luxury SUV,Gas / EV,4
+107,Genesis,GV80,Midsize Luxury SUV,Gas,7
+108,GMC,Canyon,Midsize Pickup Truck,Gas,2
+109,GMC,Sierra 1500,Full-size Pickup Truck,Gas / Diesel,5
+110,GMC,Terrain,Compact SUV,Gas,5
+111,GMC,Acadia,Midsize Three-Row SUV,Gas,7
+112,GMC,Yukon,Full-size SUV,Gas / Diesel,3
+113,GMC,Hummer EV,Off-Road Electric Truck/SUV,EV,4
+114,Honda,Civic,Compact Sedan / Hatchback,Gas / Hybrid,2
+115,Honda,Accord,Midsize Sedan,Gas / Hybrid,3
+116,Honda,HR-V,Subcompact SUV,Gas,4
+117,Honda,CR-V,Compact SUV,Gas / Hybrid,5
+118,Honda,Passport,Midsize SUV,Gas,5
+119,Honda,Pilot,Midsize Three-Row SUV,Gas,5
+120,Honda,Ridgeline,Midsize Crew-Cab Truck,Gas,7
+121,Honda,Odyssey,Minivan,Gas,3
+122,Honda,Prologue,Electric Midsize SUV,EV,3
+123,Honda,Insight,Compact Hybrid,Hybrid,3
+124,Honda,Fit,Subcompact Hatchback,Gas,7
+125,Hyundai,Elantra,Compact Sedan,Gas / Hybrid,2
+126,Hyundai,Sonata,Midsize Sedan,Gas / Hybrid,7
+127,Hyundai,Venue,Subcompact SUV,Gas,6
+128,Hyundai,Kona,Subcompact SUV,Gas / EV,2
+129,Hyundai,Tucson,Compact SUV,Gas / Hybrid,2
+130,Hyundai,Santa Fe,Midsize Three-Row SUV,Gas / Hybrid,3
+131,Hyundai,Palisade,Full-size Three-Row SUV,Gas,7
+132,Hyundai,Santa Cruz,Compact Pickup Truck,Gas,5
+133,Hyundai,Ioniq 5,Electric Crossover,EV,7
+134,Hyundai,Ioniq 6,Electric Sedan,EV,6
+135,Hyundai,Ioniq 9,Electric Three-Row SUV,EV,2
+136,Hyundai,Nexo,Hydrogen Fuel Cell SUV,FCEV,6
+137,Hyundai,Veloster,Sport Hatchback,Gas,4
+138,Infiniti,Q50,Luxury Sport Sedan,Gas,2
+139,Infiniti,Q60,Luxury Sports Coupe,Gas,6
+140,Infiniti,QX50,Compact Luxury SUV,Gas,6
+141,Infiniti,QX55,Luxury Coupe SUV,Gas,7
+142,Infiniti,QX60,Midsize Luxury SUV,Gas,3
+143,Infiniti,QX80,Full-size Luxury SUV,Gas,3
+144,Jaguar,XF,Luxury Midsize Sedan,Gas,3
+145,Jaguar,E-Pace,Subcompact Luxury SUV,Gas,6
+146,Jaguar,F-Pace,Compact Luxury SUV,Gas,3
+147,Jaguar,I-Pace,Electric Luxury SUV,EV,6
+148,Jaguar,F-Type,Sports Car,Gas,7
+149,Jeep,Renegade,Subcompact Off-Road SUV,Gas,2
+150,Jeep,Compass,Compact SUV,Gas,7
+151,Jeep,Cherokee,Midsize SUV,Gas,7
+152,Jeep,Grand Cherokee,Midsize SUV,Gas / Plug-in Hybrid,4
+153,Jeep,Wrangler,Off-Road SUV,Gas / Plug-in Hybrid,4
+154,Jeep,Gladiator,Midsize Pickup Truck,Gas / Diesel,6
+155,Jeep,Wagoneer,Full-size Luxury SUV,Gas,3
+156,Jeep,Grand Wagoneer,Ultra-Luxury Full-size SUV,Gas,6
+157,Kia,Rio,Subcompact Car,Gas,3
+158,Kia,Forte,Compact Sedan,Gas,7
+159,Kia,K4,Compact Sedan,Gas,5
+160,Kia,K5,Midsize Sedan,Gas,3
+161,Kia,Stinger,Luxury Sport Sedan,Gas,2
+162,Kia,K900,Luxury Full-size Sedan,Gas,5
+163,Kia,Soul,Subcompact Crossover,Gas,4
+164,Kia,Seltos,Subcompact SUV,Gas,2
+165,Kia,Niro,Subcompact SUV,Hybrid / EV,2
+166,Kia,Sportage,Compact SUV,Gas / Hybrid,7
+167,Kia,Sorento,Midsize SUV,Gas / Hybrid,7
+168,Kia,Telluride,Midsize Three-Row SUV,Gas,2
+169,Kia,EV6,Electric Crossover,EV,2
+170,Kia,EV9,Electric Three-Row SUV,EV,5
+171,Kia,Carnival,Multi-Purpose Vehicle / Minivan,Gas / Hybrid,6
+172,Lamborghini,Urus,High-Performance Luxury SUV,Gas / Hybrid,5
+173,Lamborghini,Huracan,Mid-Engine Supercar,Gas,5
+174,Lamborghini,Revuelto,Plug-in Hybrid Supercar,Plug-in Hybrid,5
+175,Land Rover,Discovery Sport,Compact Luxury SUV,Gas,6
+176,Land Rover,Discovery,Midsize Luxury SUV,Gas,7
+177,Land Rover,Range Rover Evoque,Subcompact Luxury SUV,Gas,3
+178,Land Rover,Range Rover Velar,Compact Luxury SUV,Gas,2
+179,Land Rover,Range Rover Sport,Midsize Luxury SUV,Gas / Hybrid,7
+180,Land Rover,Range Rover,Flagship Luxury SUV,Gas / Hybrid / EV,6
+181,Land Rover,Defender,Off-Road Luxury SUV,Gas / Hybrid,5
+182,Lexus,IS,Luxury Compact Sedan,Gas,7
+183,Lexus,ES,Luxury Midsize Sedan,Gas / Hybrid,7
+184,Lexus,LS,Luxury Full-size Sedan,Gas / Hybrid,4
+185,Lexus,RC,Luxury Sports Coupe,Gas,2
+186,Lexus,LC,Luxury Flagship Coupe,Gas / Hybrid,5
+187,Lexus,UX,Subcompact Luxury Crossover,Hybrid,3
+188,Lexus,NX,Compact Luxury SUV,Gas / Hybrid,6
+189,Lexus,RX,Midsize Luxury SUV,Gas / Hybrid,6
+190,Lexus,TX,Midsize Three-Row SUV,Gas / Hybrid,6
+191,Lexus,GX,Off-Road Luxury SUV,Gas / Hybrid,5
+192,Lexus,LX,Full-size Luxury SUV,Gas / Hybrid,5
+193,Lexus,RZ,Electric Luxury SUV,EV,5
+194,Lincoln,Corsair,Compact Luxury SUV,Gas / Hybrid,7
+195,Lincoln,Nautilus,Midsize Luxury SUV,Gas / Hybrid,5
+196,Lincoln,Aviator,Midsize Three-Row Luxury SUV,Gas,2
+197,Lincoln,Navigator,Full-size Luxury SUV,Gas,2
+198,Lucid,Air,Luxury Electric Sedan,EV,4
+199,Lucid,Gravity,Luxury Electric SUV,EV,6
+200,Maserati,Ghibli,Luxury Sport Sedan,Gas,2
+201,Maserati,Quattroporte,Luxury Flagship Sedan,Gas,5
+202,Maserati,GranTurismo,Luxury Grand Tourer,Gas / EV,2
+203,Maserati,Grecale,Compact Luxury SUV,Gas / EV,2
+204,Maserati,Levante,Midsize Luxury SUV,Gas,5
+205,Maserati,MC20,Exotic Sports Car,Gas,4
+206,Mazda,3,Compact Sedan / Hatchback,Gas,5
+207,Mazda,6,Midsize Sedan,Gas,4
+208,Mazda,CX-30,Subcompact SUV,Gas,3
+209,Mazda,CX-5,Compact SUV,Gas,5
+210,Mazda,CX-50,Compact Rugged SUV,Gas / Hybrid,7
+211,Mazda,CX-70,Midsize Two-Row SUV,Gas / Hybrid,5
+212,Mazda,CX-90,Midsize Three-Row SUV,Gas / Hybrid,2
+213,Mazda,MX-5 Miata,Convertible Sports Car,Gas,6
+214,McLaren,Artura,Hybrid Supercar,Plug-in Hybrid,7
+215,McLaren,750S,Exotic Supercar,Gas,5
+216,Mercedes-Benz,A-Class,Luxury Subcompact Sedan,Gas,7
+217,Mercedes-Benz,C-Class,Luxury Compact Sedan,Gas / Hybrid,2
+218,Mercedes-Benz,E-Class,Luxury Midsize Sedan,Gas / Hybrid,5
+219,Mercedes-Benz,S-Class,Luxury Flagship Sedan,Gas / Hybrid,7
+220,Mercedes-Benz,CLA,Luxury Coupe Sedan,Gas,4
+221,Mercedes-Benz,CLS,Luxury Midsize Coupe Sedan,Gas,5
+222,Mercedes-Benz,GLA,Subcompact Luxury SUV,Gas,4
+223,Mercedes-Benz,GLB,Compact Luxury SUV,Gas,4
+224,Mercedes-Benz,GLC,Compact Luxury SUV,Gas / Hybrid,6
+225,Mercedes-Benz,GLE,Midsize Luxury SUV,Gas / Hybrid,3
+226,Mercedes-Benz,GLS,Full-size Luxury SUV,Gas,4
+227,Mercedes-Benz,G-Class,Luxury Off-Road SUV,Gas / EV,5
+228,Mercedes-Benz,EQB,Electric Compact SUV,EV,2
+229,Mercedes-Benz,EQE Sedan,Electric Midsize Sedan,EV,6
+230,Mercedes-Benz,EQE SUV,Electric Midsize SUV,EV,7
+231,Mercedes-Benz,EQS Sedan,Electric Flagship Sedan,EV,4
+232,Mercedes-Benz,EQS SUV,Electric Flagship SUV,EV,7
+233,Mercedes-Benz,SL-Class,Luxury Roadster,Gas,2
+234,Mini,Cooper,Compact Hatchback,Gas / EV,4
+235,Mini,Clubman,Compact Wagon,Gas,2
+236,Mini,Countryman,Subcompact SUV,Gas / EV,6
+237,Mitsubishi,Mirage,Subcompact Hatchback / Sedan,Gas,5
+238,Mitsubishi,Outlander Sport,Subcompact SUV,Gas,4
+239,Mitsubishi,Eclipse Cross,Compact SUV,Gas,7
+240,Mitsubishi,Outlander,Compact Three-Row SUV,Gas / Plug-in Hybrid,2
+241,Nissan,Versa,Subcompact Sedan,Gas,6
+242,Nissan,Sentra,Compact Sedan,Gas,3
+243,Nissan,Altima,Midsize Sedan,Gas,6
+244,Nissan,Maxima,Large Sport Sedan,Gas,5
+245,Nissan,Kicks,Subcompact SUV,Gas,5
+246,Nissan,Rogue,Compact SUV,Gas,6
+247,Nissan,Murano,Midsize SUV,Gas,4
+248,Nissan,Pathfinder,Midsize Three-Row SUV,Gas,5
+249,Nissan,Armada,Full-size SUV,Gas,5
+250,Nissan,Frontier,Midsize Pickup Truck,Gas,4
+251,Nissan,Titan,Full-size Pickup Truck,Gas,4
+252,Nissan,Leaf,Electric Hatchback,EV,5
+253,Nissan,Ariya,Electric SUV,EV,4
+254,Nissan,Z,Sports Coupe,Gas,2
+255,Nissan,GT-R,High-Performance Sports Car,Gas,3
+256,Polestar,2,Electric Fastback,EV,4
+257,Polestar,3,Electric Luxury SUV,EV,7
+258,Polestar,4,Electric SUV Coupe,EV,2
+259,Porsche,718 Cayman,Mid-Engine Sports Coupe,Gas,7
+260,Porsche,718 Boxster,Mid-Engine Convertible,Gas,3
+261,Porsche,911,Iconic Sports Car,Gas / Hybrid,7
+262,Porsche,Taycan,Electric Performance Sedan,EV,2
+263,Porsche,Panamera,Luxury Executive Sport Sedan,Gas / Hybrid,3
+264,Porsche,Macan,Compact Luxury SUV,Gas / EV,6
+265,Porsche,Cayenne,Midsize Luxury SUV,Gas / Hybrid,6
+266,Ram,1500,Full-size Pickup Truck,Gas,3
+267,Ram,2500,Heavy Duty Pickup Truck,Gas / Diesel,3
+268,Ram,ProMaster,Cargo / Passenger Van,Gas / EV,2
+269,Rivian,R1T,Electric Pickup Truck,EV,5
+270,Rivian,R1S,Electric SUV,EV,2
+271,Rivian,R2,Compact Electric SUV,EV,5
+272,Rolls-Royce,Ghost,Ultra-Luxury Sedan,Gas,6
+273,Rolls-Royce,Phantom,Ultra-Luxury Flagship Sedan,Gas,7
+274,Rolls-Royce,Cullinan,Ultra-Luxury SUV,Gas,6
+275,Rolls-Royce,Spectre,Ultra-Luxury Electric Coupe,EV,6
+276,Subaru,Impreza,Compact Hatchback,Gas,6
+277,Subaru,Legacy,Midsize Sedan,Gas,7
+278,Subaru,WRX,Sports Sedan,Gas,2
+279,Subaru,BRZ,Sports Coupe,Gas,2
+280,Subaru,Crosstrek,Subcompact Rugged SUV,Gas / Hybrid,3
+281,Subaru,Forester,Compact SUV,Gas / Hybrid,5
+282,Subaru,Outback,Midsize Lifted Wagon,Gas,6
+283,Subaru,Ascent,Midsize Three-Row SUV,Gas,3
+284,Subaru,Solterra,Electric SUV,EV,3
+285,Tesla,Model 3,Electric Compact Sedan,EV,3
+286,Tesla,Model S,Electric Luxury Sedan,EV,7
+287,Tesla,Model Y,Electric Compact SUV,EV,6
+288,Tesla,Model X,Electric Luxury SUV,EV,4
+289,Tesla,Cybertruck,Electric Pickup Truck,EV,6
+290,Toyota,Prius,Compact Hybrid Hatchback,Hybrid / Plug-in,3
+291,Toyota,Corolla,Compact Sedan / Hatchback,Gas / Hybrid,5
+292,Toyota,Camry,Midsize Sedan,Hybrid,7
+293,Toyota,Crown,Full-size Crossover Sedan,Hybrid,7
+294,Toyota,Crown Signia,Midsize Luxury SUV,Hybrid,3
+295,Toyota,Corolla Cross,Subcompact SUV,Gas / Hybrid,5
+296,Toyota,RAV4,Compact SUV,Gas / Hybrid / Plug-in,7
+297,Toyota,Venza,Midsize Hybrid Crossover,Hybrid,5
+298,Toyota,Highlander,Midsize Three-Row SUV,Gas / Hybrid,4
+299,Toyota,Grand Highlander,Large Three-Row SUV,Gas / Hybrid,7
+300,Toyota,4Runner,Off-Road SUV,Gas / Hybrid,4
+,Toyota,Land Cruiser,Legend Off-Road SUV,Hybrid,
+,Toyota,Sequoia,Full-size SUV,Hybrid,
+,Toyota,Sienna,Minivan,Hybrid,
+,Toyota,Tacoma,Midsize Pickup Truck,Gas / Hybrid,
+,Toyota,Tundra,Full-size Pickup Truck,Gas / Hybrid,
+,Toyota,GR86,Sports Coupe,Gas,
+,Toyota,GR Supra,Sports Coupe,Gas,
+,Toyota,bZ4X,Electric SUV,EV,
+,Toyota,Avalon,Large Sedan,Gas / Hybrid,
+,Toyota,Yaris,Subcompact Car,Gas,
+,Volkswagen,Jetta,Compact Sedan,Gas,
+,Volkswagen,Golf GTI,Hot Hatchback,Gas,
+,Volkswagen,Golf R,Performance Hatchback,Gas,
+,Volkswagen,Arteon,Luxury Sportback,Gas,
+,Volkswagen,Taos,Subcompact SUV,Gas,
+,Volkswagen,Tiguan,Compact SUV,Gas,
+,Volkswagen,Atlas Cross Sport,Midsize SUV,Gas,
+,Volkswagen,Atlas,Midsize Three-Row SUV,Gas,
+,Volkswagen,ID.4,Electric SUV,EV,
+,Volkswagen,ID. Buzz,Electric Minivan / Van,EV,
+,Volkswagen,Passat,Midsize Sedan,Gas,
+,Volvo,S60,Luxury Compact Sedan,Gas / Hybrid,
+,Volvo,S90,Luxury Midsize Sedan,Gas / Hybrid,
+,Volvo,V60,Luxury Wagon,Gas / Hybrid,
+,Volvo,V90 Cross Country,Luxury Rugged Wagon,Gas,
+,Volvo,XC40,Subcompact Luxury SUV,Gas,
+,Volvo,EX30,Electric Subcompact SUV,EV,
+,Volvo,XC60,Compact Luxury SUV,Gas / Hybrid,
+,Volvo,EC40,Electric Crossover SUV,EV,
+,Volvo,EX40,Electric Compact SUV,EV,
+,Volvo,XC90,Midsize Luxury SUV,Gas / Hybrid,
+,Volvo,EX90,Electric Flagship SUV,EV,
